@@ -21,7 +21,6 @@ C:\Users\ADMIN\PTPMQL\PTPMQL_nhom1\obj\Debug\net8.0\staticwebassets\msbuild.buil
 C:\Users\ADMIN\PTPMQL\PTPMQL_nhom1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PTPMQL.props
 C:\Users\ADMIN\PTPMQL\PTPMQL_nhom1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PTPMQL.props
 C:\Users\ADMIN\PTPMQL\PTPMQL_nhom1\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\ADMIN\PTPMQL\PTPMQL_nhom1\obj\Debug\net8.0\scopedcss\Properties\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\ADMIN\PTPMQL\PTPMQL_nhom1\obj\Debug\net8.0\scopedcss\bundle\PTPMQL.styles.css
 C:\Users\ADMIN\PTPMQL\PTPMQL_nhom1\obj\Debug\net8.0\scopedcss\projectbundle\PTPMQL.bundle.scp.css
 C:\Users\ADMIN\PTPMQL\PTPMQL_nhom1\obj\Debug\net8.0\PTPMQL.dll
@@ -29,3 +28,4 @@ C:\Users\ADMIN\PTPMQL\PTPMQL_nhom1\obj\Debug\net8.0\refint\PTPMQL.dll
 C:\Users\ADMIN\PTPMQL\PTPMQL_nhom1\obj\Debug\net8.0\PTPMQL.pdb
 C:\Users\ADMIN\PTPMQL\PTPMQL_nhom1\obj\Debug\net8.0\PTPMQL.genruntimeconfig.cache
 C:\Users\ADMIN\PTPMQL\PTPMQL_nhom1\obj\Debug\net8.0\ref\PTPMQL.dll
+C:\Users\ADMIN\PTPMQL\PTPMQL_nhom1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
