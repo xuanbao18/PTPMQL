@@ -1,0 +1,59 @@
+Lorem Ipsum <div>nguyenxuanbao_2121050486</div> dolor sit amet.
+<div>
+    <h2>nguyenxuanbao_2121050486</h2>
+    <p>nguyenxuanbao_2121050486.</p>
+    <p>nguyenxuanbao_2121050486.</p>
+  </div>
+  <style>
+    div {
+      width:300px;
+      margin:auto;
+    }
+    </style>
+    <div>
+        <h2>nguyenxuanbao_2121050486</h2>
+        <p>nguyenxuanbao_2121050486.</p>
+        <p>nguyenxuanbao_2121050486.</p>
+      </div>
+      
+      <div>
+        <h2>nguyenxuanbao_2121050486</h2>
+        <p>nguyenxuanbao_2121050486.</p>
+        <p>nguyenxuanbao_2121050486.</p>
+      </div>
+      
+      <div>
+        <h2>nguyenxuanbao_2121050486</h2>
+        <p>nguyenxuanbao_2121050486.</p>
+        <p>nguyenxuanbao_2121050486.</p>
+      </div>
+      <style>
+        .mycontainer {
+          width:100%;
+          overflow:auto;
+        }
+        .mycontainer div {
+          width:33%;
+          float:left;
+        }
+        </style>
+<style>
+    div {
+      width: 30%;
+      display: inline-block;
+    }
+    </style>
+<style>
+    .mycontainer {
+      display: flex;
+    }
+    .mycontainer > div {
+      width:33%;
+    }
+    </style>
+<style>
+    .grid-container {
+      display: grid;
+      grid-template-columns: 33% 33% 33%;
+    }
+    </style>
