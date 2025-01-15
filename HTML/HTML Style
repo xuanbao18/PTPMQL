@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<body>
+    <p>nguyenxuanbao_2121050486.</p>
+    </body>
+    <BODY>
+        <P>nguyenxuanbao_2121050486.</P>
+        </BODY>
+        <section>
+            <p>nguyenxuanbao_2121050486.</p>
+            <p>nguyenxuanbao_2121050486.</p>
+          </section>
+          <section>
+            <p>nguyenxuanbao_2121050486.
+            <p>nguyenxuanbao_2121050486.
+          </section>
+          <a href="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+          <a HREF="https://www.w3schools.com/html/">Visit our HTML tutorial</a>
+          <table class="striped">
+            <table class=striped>
+                <table class=table striped>
+                    <img src="html5.gif" alt="HTML5" style="width:128px;height:128px">
+                    <img src="html5.gif">
+                    <link rel="stylesheet" href="styles.css">
+                    <link rel = "stylesheet" href = "styles.css">
+                    <body>
+
+                        <h1>nguyenxuanbao_2121050486</h1>
+                        
+                        <h2>nguyenxuanbao_2121050486</h2>
+                        <p>Tokyo is the capital of Japan, the center of the Greater Tokyo Area, and the most populous metropolitan area in the world.</p>
+                        
+                        <h2>nguyenxuanbao_2121050486</h2>
+                        <p>London is the capital city of England. It is the most populous city in the United Kingdom.</p>
+                        
+                        <h2>nguyenxuanbao_2121050486</h2>
+                        <p>Paris is the capital of France. The Paris area is one of the largest population centers in Europe.</p>
+                        
+                        </body>
+                        <body>
+                            <h1>nguyenxuanbao_2121050486</h1>
+                            <h2>Tokyo</h2><p>Tokyo is the capital of Japan, the center of the Greater Tokyo Area, and the most populous metropolitan area in the world.</p>
+                            <h2>London</h2><p>London is the capital city of England. It is the most populous city in the United Kingdom.</p>
+                            <h2>Paris</h2><p>Paris is the capital of France. The Paris area is one of the largest population centers in Europe.</p>
+                            </body>
+                            <table>
+                                <tr>
+                                  <th>nguyenxuanbao_2121050486</th>
+                                  <th>nguyenxuanbao_2121050486</th>
+                                </tr>
+                                <tr>
+                                  <td>A</td>
+                                  <td>nguyenxuanbao_2121050486</td>
+                                </tr>
+                                <tr>
+                                  <td>B</td>
+                                  <td>nguyenxuanbao_2121050486</td>
+                                </tr>
+                              </table>
+                              <ul>
+                                <li>London</li>
+                                <li>Paris</li>
+                                <li>Tokyo</li>
+                              </ul>
+                              <title>nguyenxuanbao_2121050486</title>
+                              <head>
+                                <title>nguyenxuanbao_2121050486</title>
+                              </head>
+                              
+                              <h1>nguyenxuanbao_2121050486</h1>
+                              <p>nguyenxuanbao_2121050486.</p>
+                              <html>
+<title>nguyenxuanbao_2121050486</title>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<p>nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<meta charset="utf-8">
+<meta charset="utf-8" />
+<html lang="en-us">
+<head>
+  <title>nguyenxuanbao_2121050486</title>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<p>nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>nguyenxuanbao_2121050486</title>
+</head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="styles.css">
+<html>
+<body>
+
+<p id="Demo">nguyenxuanbao_2121050486.</p>
+<p id="demo">nguyenxuanbao_2121050486.</p>
+
+<script>
+// Only paragraph 2 will be overwritten
+document.getElementById("demo").innerHTML = "HELLO.";
+</script>
+
+</body>
+</html>
