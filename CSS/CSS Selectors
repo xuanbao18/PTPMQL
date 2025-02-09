@@ -1,0 +1,121 @@
+<html>
+<head>
+<style>
+p {
+  text-align: center;
+  color: red;
+} 
+</style>
+</head>
+<body>
+
+<p>nguyenxuanbao_2121050486.</p>
+<p id="para1">nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+#para1 {
+  text-align: center;
+  color: red;
+}
+</style>
+</head>
+<body>
+
+<p id="para1">nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+.center {
+  text-align: center;
+  color: red;
+}
+</style>
+</head>
+<body>
+
+<h1 class="center">nguyenxuanbao_2121050486</h1>
+<p class="center">nguyenxuanbao_2121050486.</p> 
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p.center {
+  text-align: center;
+  color: red;
+}
+</style>
+</head>
+<body>
+
+<h1 class="center">nguyenxuanbao_2121050486</h1>
+<p class="center">nguyenxuanbao_2121050486.</p> 
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p.center {
+  text-align: center;
+  color: red;
+}
+
+p.large {
+  font-size: 300%;
+}
+</style>
+</head>
+<body>
+
+<h1 class="center">nguyenxuanbao_2121050486</h1>
+<p class="center">nguyenxuanbao_2121050486.</p>
+<p class="center large">nguyenxuanbao_2121050486.</p> 
+
+</body>
+</html>
+<html>
+<head>
+<style>
+* {
+  text-align: center;
+  color: blue;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<p>nguyenxuanbao_2121050486.</p>
+<p id="para1">Me too!</p>
+<p>And me!</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+h1, h2, p {
+  text-align: center;
+  color: red;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<h2>nguyenxuanbao_2121050486</h2>
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>

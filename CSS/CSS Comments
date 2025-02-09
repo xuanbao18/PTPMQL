@@ -1,0 +1,88 @@
+<html>
+<head>
+<style>
+/* This is a single-line comment */
+p {
+  color: red;
+} 
+</style>
+</head>
+<body>
+
+<p>nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486.</p>
+<p>nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p {
+  color: red;  /* Set text color to red */
+} 
+</style>
+</head>
+<body>
+
+<p>nguyenxuanbao_2121050486!</p>
+<p>nguyenxuanbao_2121050486.</p>
+<p>nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p {
+  color: /*red*/blue;
+} 
+</style>
+</head>
+<body>
+
+<p>nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486.</p>
+<p>nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+/* This is
+a multi-line
+comment */
+
+p {
+  color: red;
+} 
+</style>
+</head>
+<body>
+
+<p>nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486.</p>
+<p>nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p {
+  color: red; /* Set text color to red */
+}
+</style>
+</head>
+<body>
+
+<h2>My Heading</h2>
+
+<!-- These paragraphs will be red -->
+<p>nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486.</p>
+<p>nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
