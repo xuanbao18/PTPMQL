@@ -1,0 +1,201 @@
+<html>
+<head>
+<style>
+ul.a {
+  list-style-type: circle;
+}
+
+ul.b {
+  list-style-type: square;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+<ul class="a">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<ul class="b">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<p>nguyenxuanbao_2121050486</p>
+<ol class="c">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+
+<ol class="d">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+ul {
+  list-style-image: url('sqpurple.gif');
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+ul.a {
+  list-style-position: outside;
+}
+
+ul.b {
+  list-style-position: inside;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+
+<h2>nguyenxuanbao_2121050486</h2>
+<ul class="a">
+  <li>nguyenxuanbao_2121050486</li>
+  <li>nguyenxuanbao_2121050486</li>
+  <li>nguyenxuanbao_2121050486</li>
+</ul>
+
+<h2>nguyenxuanbao_2121050486</h2>
+<ul class="b">
+  <li>nguyenxuanbao_2121050486</li>
+  <li>nguyenxuanbao_2121050486</li>
+  <li>nguyenxuanbao_2121050486</li>
+</ul>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+ul.demo {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+</style>
+</head>
+<body>
+
+<p>Default list:</p>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+<p>nguyenxuanbao_2121050486</p>
+<ul class="demo">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+ul {
+  list-style: square inside url("sqpurple.gif");
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486.</p>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+ol {
+  background: #ff9999;
+  padding: 20px;
+}
+
+ul {
+  background: #3399ff;
+  padding: 20px;
+}
+
+ol li {
+  background: #ffe5e5;
+  color: darkred;
+  padding: 5px;
+  margin-left: 35px;
+}
+
+ul li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ol>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Coca Cola</li>
+</ul>
+
+</body>
+</html>
