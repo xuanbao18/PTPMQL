@@ -1,0 +1,164 @@
+<html>
+<head>
+<style>
+div {
+  margin: 70px;
+  border: 1px solid #4CAF50;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div>nguyenxuanbao_2121050486.</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div>This div element has a top margin of 100px, a right margin of 150px, a bottom margin of 100px, and a left margin of 80px.</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid black;
+  margin: 25px 50px 75px 100px;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div>This div element has a top margin of 25px, a right margin of 50px, a bottom margin of 75px, and a left margin of 100px.</div>
+
+<hr>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid black;
+  margin: 25px 50px 75px;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div>This div element has a top margin of 25px, a right and left margin of 50px, and a bottom margin of 75px.</div>
+
+<hr>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid black;
+  margin: 25px 50px;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div>This div element has a top and bottom margin of 25px, and a right and left margin of 50px.</div>
+
+<hr>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  width: 300px;
+  margin: auto;
+  border: 1px solid red;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+<p>nguyenxuanbao_2121050486</p>
+
+<div>
+This div will be horizontally centered because it has margin: auto;
+</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid red;
+  margin-left: 100px;
+}
+
+p.ex1 {
+  margin-left: inherit;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+<p>nguyenxuanbao_2121050486:</p>
+
+<div>
+<p class="ex1">nguyenxuanbao_2121050486.</p>
+</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+h1 {
+  margin: 0 0 50px 0;
+}
+
+h2 {
+  margin: 20px 0 0 0;
+}
+</style>
+</head>
+<body>
+
+<p>nguyenxuanbao_2121050486</p>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<h2>nguyenxuanbao_2121050486</h2>
+
+</body>
+</html>

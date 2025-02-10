@@ -1,0 +1,56 @@
+<html>
+<head>
+<style>
+div {
+  height: 200px;
+  width: 50%;
+  background-color: powderblue;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div>nguyenxuanbao_2121050486.</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  height: 100px;
+  width: 500px;
+  background-color: powderblue;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div>nguyenxuanbao_2121050486.</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  max-width: 500px;
+  height: 100px;
+  background-color: powderblue;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div>nguyenxuanbao_2121050486.</div>
+
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>

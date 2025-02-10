@@ -1,0 +1,231 @@
+<html>
+<head>
+<style>
+p {outline-color:red;}
+
+p.dotted {outline-style: dotted;}
+p.dashed {outline-style: dashed;}
+p.solid {outline-style: solid;}
+p.double {outline-style: double;}
+p.groove {outline-style: groove;}
+p.ridge {outline-style: ridge;}
+p.inset {outline-style: inset;}
+p.outset {outline-style: outset;}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p class="dotted">nguyenxuanbao_2121050486</p>
+<p class="dashed">nguyenxuanbao_2121050486</p>
+<p class="solid">nguyenxuanbao_2121050486</p>
+<p class="double">nguyenxuanbao_2121050486</p>
+<p class="groove">nguyenxuanbao_2121050486.</p>
+<p class="ridge">nguyenxuanbao_2121050486.</p>
+<p class="inset">nguyenxuanbao_2121050486</p>
+<p class="outset">nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p.ex1 {
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: red;
+  outline-width: thin;
+}
+
+p.ex2 {
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: red;
+  outline-width: medium;
+}
+
+p.ex3 {
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: red;
+  outline-width: thick;
+}
+
+p.ex4 {
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: red;
+  outline-width: 4px;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p class="ex1">nguyenxuanbao_2121050486</p>
+<p class="ex2">nguyenxuanbao_2121050486.</p>
+<p class="ex3">nguyenxuanbao_2121050486.</p>
+<p class="ex4">nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p.ex1 {
+  border: 2px solid black;
+  outline-style: solid;
+  outline-color: red;
+}
+
+p.ex2 {
+  border: 2px solid black;
+  outline-style: dotted;
+  outline-color: blue;
+}
+
+p.ex3 {
+  border: 2px solid black;
+  outline-style: outset;
+  outline-color: grey;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+<p>nguyenxuanbao_2121050486</p>
+
+<p class="ex1">nguyenxuanbao_2121050486</p>
+<p class="ex2">nguyenxuanbao_2121050486.</p>
+<p class="ex3">nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p.ex1 {
+  border: 2px solid black;
+  outline-style: solid;
+  outline-color: #ff0000; /* red */
+}
+
+p.ex2 {
+  border: 2px solid black;
+  outline-style: dotted;
+  outline-color: #0000ff; /* blue */
+}
+
+p.ex3 {
+  border: 2px solid black;
+  outline-style: solid;
+  outline-color: #bbbbbb; /* grey */
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+<p>nguyenxuanbao_2121050486</p>
+
+<p class="ex1">nguyenxuanbao_2121050486</p>
+<p class="ex2">nguyenxuanbao_2121050486.</p>
+<p class="ex3">nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p.ex1 {
+  border: 2px solid black;
+  outline-style: solid;
+  outline-color: rgb(255, 0, 0); /* red */
+}
+
+p.ex2 {
+  border: 2px solid black;
+  outline-style: dotted;
+  outline-color: rgb(0, 0, 255); /* blue */
+}
+
+p.ex3 {
+  border: 2px solid black;
+  outline-style: solid;
+  outline-color: rgb(187, 187, 187); /* grey */
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+<p>nguyenxuanbao_2121050486:</p>
+
+<p class="ex1">nguyenxuanbao_2121050486</p>
+<p class="ex2">nguyenxuanbao_2121050486.</p>
+<p class="ex3">nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p.ex1 {outline: dashed;}
+p.ex2 {outline: dotted red;}
+p.ex3 {outline: 5px solid yellow;}
+p.ex4 {outline: thick ridge pink;}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p class="ex1">nguyenxuanbao_2121050486</p>
+<p class="ex2">nguyenxuanbao_2121050486.</p>
+<p class="ex3">nguyenxuanbao_2121050486.</p>
+<p class="ex4">nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p {
+  margin: 30px;
+  border: 1px solid black;
+  outline: 1px solid red;
+  outline-offset: 15px;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p {
+  margin: 30px;
+  background:yellow;
+  border: 1px solid black;
+  outline: 1px solid red;
+  outline-offset: 15px;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>

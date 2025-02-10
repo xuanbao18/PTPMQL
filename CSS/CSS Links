@@ -1,0 +1,227 @@
+<html>
+<head>
+<style>
+a {
+  color: hotpink;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p><b><a href="default.asp" target="_blank">nguyenxuanbao_2121050486</a></b></p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p><b><a href="default.asp" target="_blank">nguyenxuanbao_2121050486</a></b></p>
+<p><b>Note:</b> nguyenxuanbao_2121050486.</p>
+<p><b>Note:</b> nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p><b><a href="default.asp" target="_blank">nguyenxuanbao_2121050486</a></b></p>
+<p><b>Note:</b> nguyenxuanbao_2121050486.</p>
+<p><b>Note:</b> nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+a:link {
+  background-color: yellow;
+}
+
+a:visited {
+  background-color: cyan;
+}
+
+a:hover {
+  background-color: lightgreen;
+}
+
+a:active {
+  background-color: hotpink;
+} 
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p><b><a href="default.asp" target="_blank">nguyenxuanbao_2121050486</a></b></p>
+<p><b>Note:</b> nguyenxuanbao_2121050486.</p>
+<p><b>Note:</b> nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+<a href="default.asp" target="_blank">nguyenxuanbao_2121050486</a>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+a.one:link {color:#ff0000;}
+a.one:visited {color:#0000ff;}
+a.one:hover {color:#ffcc00;}
+
+a.two:link {color:#ff0000;}
+a.two:visited {color:#0000ff;}
+a.two:hover {font-size:150%;}
+
+a.three:link {color:#ff0000;}
+a.three:visited {color:#0000ff;}
+a.three:hover {background:#66ff66;}
+
+a.four:link {color:#ff0000;}
+a.four:visited {color:#0000ff;}
+a.four:hover {font-family:monospace;}
+
+a.five:link {color:#ff0000;text-decoration:none;}
+a.five:visited {color:#0000ff;text-decoration:none;}
+a.five:hover {text-decoration:underline;}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+
+<p><b><a class="one" href="default.asp" target="_blank">This link changes color</a></b></p>
+<p><b><a class="two" href="default.asp" target="_blank">This link changes font-size</a></b></p>
+<p><b><a class="three" href="default.asp" target="_blank">This link changes background-color</a></b></p>
+<p><b><a class="four" href="default.asp" target="_blank">This link changes font-family</a></b></p>
+<p><b><a class="five" href="default.asp" target="_blank">This link changes text-decoration</a></b></p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+a:link, a:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid green;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: green;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<h2>Link Button</h2>
+
+<a href="default.asp" target="_blank">nguyenxuanbao_2121050486</a>
+
+</body>
+</html>
+<html>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>Mnguyenxuanbao_2121050486.</p>
+<span style="cursor:auto">auto</span><br>
+<span style="cursor:crosshair">crosshair</span><br>
+<span style="cursor:default">default</span><br>
+<span style="cursor:e-resize">e-resize</span><br>
+<span style="cursor:help">help</span><br>
+<span style="cursor:move">move</span><br>
+<span style="cursor:n-resize">n-resize</span><br>
+<span style="cursor:ne-resize">ne-resize</span><br>
+<span style="cursor:nw-resize">nw-resize</span><br>
+<span style="cursor:pointer">pointer</span><br>
+<span style="cursor:progress">progress</span><br>
+<span style="cursor:s-resize">s-resize</span><br>
+<span style="cursor:se-resize">se-resize</span><br>
+<span style="cursor:sw-resize">sw-resize</span><br>
+<span style="cursor:text">text</span><br>
+<span style="cursor:w-resize">w-resize</span><br>
+<span style="cursor:wait">wait</span><br>
+
+</body>
+</html>

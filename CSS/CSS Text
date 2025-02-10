@@ -1,0 +1,163 @@
+<html>
+<head>
+<style>
+div {
+  border: 1px solid gray;
+  padding: 8px;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+}
+
+p {
+  text-indent: 50px;
+  text-align: justify;
+  letter-spacing: 3px;
+}
+
+a {
+  text-decoration: none;
+  color: #008CBA;
+}
+</style>
+</head>
+<body>
+
+<div>
+  <h1>text formatting</h1>
+  <p>nguyenxuanbao_2121050486.
+  <a target="_blank" href="tryit.asp?filename=trycss_text">"Try it Yourself"</a> link.</p>
+</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+body {
+  color: blue;
+}
+
+h1 {
+  color: green;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486.</h1>
+<p>nguyenxuanbao_2121050486.</p>
+<p>Another paragraphnguyenxuanbao_2121050486
+</body>
+</html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightgrey;
+  color: blue;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+}
+
+div {
+  background-color: blue;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<p>nguyenxuanbao_2121050486</p>
+<div>nguyenxuanbao_2121050486.</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: left;
+}
+
+h3 {
+  text-align: right;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<h2>nguyenxuanbao_2121050486</h2>
+<h3>nguyenxuanbao_2121050486</h3>
+
+<p>nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid black;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  text-align: justify;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+
+<p>nguyenxuanbao_2121050486.</p>
+
+<div>
+    nguyenxuanbao_2121050486
+</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p.a {
+  text-align-last: right;
+}
+
+p.b {
+  text-align-last: center;
+}
+
+p.c {
+  text-align-last: justify;
+}
+</style>
+</head>
+<body>
+
+<h1>The text-align-last Property</h1>
+
+<h2>text-align-last: right:</h2>
+<p class="a">nguyenxuanbao_2121050486.</p>
+
+<h2>text-align-last: center:</h2>
+<p class="b">nguyenxuanbao_2121050486</p>
+
+<h2>text-align-last: justify:</h2>
+<p class="c">nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>

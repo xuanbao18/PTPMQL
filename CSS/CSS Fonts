@@ -1,0 +1,158 @@
+<html>
+<head>
+<style>
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<p class="p1">nguyenxuanbao_2121050486.</p>
+<p class="p2">nguyenxuanbao_2121050486.</p>
+<p class="p3">nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p {
+font-family: Tahoma, Verdana, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+
+<p>nguyenxuanbao_2121050486.</p>
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+body {
+  font-family: Arial, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+
+<p>nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p.normal {
+  font-style: normal;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+p.oblique {
+  font-style: oblique;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+
+<p class="normal">nguyenxuanbao_2121050486</p>
+<p class="italic">nguyenxuanbao_2121050486</p>
+<p class="oblique">nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p.normal {
+  font-weight: normal;
+}
+
+p.light {
+  font-weight: lighter;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+p.thicker {
+  font-weight: 900;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+
+<p class="normal">nguyenxuanbao_2121050486</p>
+<p class="light">nguyenxuanbao_2121050486</p>
+<p class="thick">nguyenxuanbao_2121050486</p>
+<p class="thicker">nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+p {
+  font-size: 14px;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<h2>nguyenxuanbao_2121050486</h2>
+<p>nguyenxuanbao_2121050486.</p>
+<p>nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<html>
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sofia">
+<style>
+body {
+  font-family: "Sofia", sans-serif;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<p>nguyenxuanbao_2121050486.</p>
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>

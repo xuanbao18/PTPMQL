@@ -1,0 +1,163 @@
+<html>
+<head>
+<style>
+div {
+  padding: 70px;
+  border: 1px solid #4CAF50;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+<div>nguyenxuanbao_2121050486.</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div>This div element has a top padding of 50px, a right padding of 30px, a bottom padding of 50px, and a left padding of 80px.</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid black;
+  padding: 25px 50px 75px 100px;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div>This div element has a top padding of 25px, a right padding of 50px, a bottom padding of 75px, and a left padding of 100px.</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid black;
+  padding: 25px 50px 75px;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div>This div element has a top padding of 25px, a right and left padding of 50px, and a bottom padding of 75px.</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid black;
+  padding: 25px 50px;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div>This div element has a top and bottom padding of 25px, and a right and left padding of 50px.</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  border: 1px solid black;
+  padding: 25px;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div>nguyenxuanbao_2121050486.</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div.ex1 {
+  width: 300px;
+  background-color: yellow;
+}
+
+div.ex2 {
+  width: 300px;
+  padding: 25px;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div class="ex1">nguyenxuanbao_2121050486</div>
+<br>
+
+<div class="ex2">The width of this div is 350px, even though it is defined as 300px in the CSS.</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div.ex1 {
+  width: 300px;
+  background-color: yellow;
+}
+
+div.ex2 {
+  width: 300px;
+  padding: 25px;
+  box-sizing: border-box;
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div class="ex1">nguyenxuanbao_2121050486</div>
+<br>
+
+<div class="ex2">The width of this div remains at 300px, in spite of the 50px of total left and right padding, because of the box-sizing: border-box property.
+</div>
+
+</body>
+</html>

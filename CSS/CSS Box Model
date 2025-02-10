@@ -1,0 +1,43 @@
+<html>
+<head>
+<style>
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+
+<div>nguyenxuanbao_2121050486</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  width: 320px;
+  height: 50px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<img src="klematis4_big.jpg" width="350" height="263" alt="Klematis">
+<div>nguyenxuanbao_2121050486</div>
+
+</body>
+</html>
