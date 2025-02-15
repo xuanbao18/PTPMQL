@@ -1,0 +1,114 @@
+<html>
+<head>
+<style>
+div {
+  background-color: coral;
+  width: 200px;
+  height: 65px;
+  border: 1px solid;
+  overflow: visible;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+
+<div>nguyenxuanbao_2121050486</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  background-color: coral;
+  width: 200px;
+  height: 65px;
+  border: 1px solid black;
+  overflow: hidden;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486</p>
+
+<div>nguyenxuanbao_2121050486</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  background-color: coral;
+  width: 200px;
+  height: 100px;
+  border: 1px solid black;
+  overflow: scroll;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+
+<div>nguyenxuanbao_2121050486</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  background-color: coral;
+  width: 200px;
+  height: 65px;
+  border: 1px solid black;
+  overflow: auto;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486:</p>
+
+<div>nguyenxuanbao_2121050486</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  background-color: coral;
+  width: 200px;
+  height: 65px;
+  border: 1px solid black;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486.</p>
+<p>nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486</p>
+
+<div>nguyenxuanbao_2121050486</div>
+
+</body>
+</html>

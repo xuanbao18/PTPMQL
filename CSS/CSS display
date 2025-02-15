@@ -1,0 +1,86 @@
+<html>
+<head>
+<style>
+li {
+  display: inline;
+}
+</style>
+</head>
+<body>
+
+<p>nguyenxuanbao_2121050486:</p>
+
+<ul>
+  <li><a href="/html/default.asp" target="_blank">HTML</a></li>
+  <li><a href="/css/default.asp" target="_blank">CSS</a></li>
+  <li><a href="/js/default.asp" target="_blank">JavaScript</a></li>
+</ul>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+span {
+  display: block;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+
+<span>nguyenxuanbao_2121050486</span> <span>a value of "block" results in</span> <span>a line break between each span elements.</span>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+a {
+  display: block;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+
+<a href="/html/default.asp" target="_blank">HTML</a>
+<a href="/css/default.asp" target="_blank">CSS</a>
+<a href="/js/default.asp" target="_blank">JavaScript</a>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+h1.hidden {
+  display: none;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<h1 class="hidden">nguyenxuanbao_2121050486</h1>
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+h1.hidden {
+  visibility: hidden;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<h1 class="hidden">nguyenxuanbao_2121050486</h1>
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
