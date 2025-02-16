@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Text.Encodings.Web;
-namespace MvcMovie.Controllers
+namespace PTPMQL.Controllers
 {
     public class HelloWorldController : Controller
     { 
