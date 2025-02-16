@@ -1,8 +1,11 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<form asp-action="Index">
+    <label>nhap ho ten:</label>
+    <input type="Text" name="FullName">
+    <label>nhap dia chi:</label>
+    <input type="text" name="Address">
+    <input type="submit" value="gui du lieu">
+</form>
+<h1>@ViewBag.Message</h1>
