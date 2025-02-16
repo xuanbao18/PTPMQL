@@ -1,0 +1,254 @@
+<html>
+<head>
+<style>
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+<p>nguyenxuanbao_2121050486</p>
+
+<div class="center">
+  <p>Hello World!</p>
+</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+.center {
+  text-align: center;
+  border: 3px solid green;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<div class="center">
+  <p>nguyenxuanbao_2121050486</p>
+</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+<p>nguyenxuanbao_2121050486</p>
+
+<img src="paris.jpg" alt="Paris" style="width:40%">
+
+</body>
+</html>
+<html>
+<head>
+<style>
+.right {
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486:</p>
+
+<div class="right">
+  <p>Inguyenxuanbao_2121050486</p>
+</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+.right {
+  float: right;
+  width: 300px;
+  border: 3px solid #73AD21;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+
+<div class="right">
+  <p>nguyenxuanbao_2121050486.</p>
+</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div {
+  border: 3px solid #4CAF50;
+  padding: 5px;
+}
+
+.img1 {
+  float: right;
+}
+
+.img2 {
+  float: right;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>This image is floated to the right. It is also taller than the element containing it, so it overflows outside of its container:</p>
+
+<div>
+  <img class="img1" src="pineapple.jpg" alt="Pineapple" width="170" height="170">
+  nguyenxuanbao_2121050486
+</div>
+
+<h2 style="clear:right">nguyenxuanbao_2121050486</h2>
+<p>nguyenxuanbao_2121050486</p>
+
+<div class="clearfix">
+  <img class="img2" src="pineapple.jpg" alt="Pineapple" width="170" height="170">
+  nguyenxuanbao_2121050486
+</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+.center {
+  padding: 70px 0;
+  border: 3px solid green;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+
+<div class="center">
+  <p>nguyenxuanbao_2121050486</p>
+</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+.center {
+  padding: 70px 0;
+  border: 3px solid green;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>In this example, we use padding and text-align to center the div element both vertically and horizontally:</p>
+
+<div class="center">
+  <p>nguyenxuanbao_2121050486</p>
+</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+.center {
+  line-height: 200px;
+  height: 200px;
+  border: 3px solid green;
+  text-align: center;
+}
+
+.center p {
+  line-height: 1.5;
+  display: inline-block;
+  vertical-align: middle;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>In this example, we use the line-height property with a value that is equal to the height property to center the div element:</p>
+
+<div class="center">
+  <p>nguyenxuanbao_2121050486</p>
+</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+.center { 
+  height: 200px;
+  position: relative;
+  border: 3px solid green; 
+}
+
+.center p {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+
+<div class="center">
+  <p>nguyenxuanbao_2121050486</p>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,113 @@
+<html>
+<head>
+<style>
+div p {
+  background-color: yellow;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486/h2>
+
+<p>nguyenxuanbao_2121050486</p>
+
+<div>
+  <p>nguyenxuanbao_2121050486</p>
+  <p>nguyenxuanbao_2121050486.</p>
+  <section><p>nguyenxuanbao_2121050486</p></section>
+</div>
+
+<p>nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div > p {
+  background-color: yellow;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+
+<div>
+  <p>nguyenxuanbao_2121050486.</p>
+  <p>nguyenxuanbao_2121050486</p>
+  <section>
+    <!-- not Child but Descendant -->
+    <p>nguyenxuanbao_2121050486</p>
+  </section>
+  <p>nguyenxuanbao_2121050486</p>
+</div>
+
+<p>nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486.</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div + p {
+  background-color: yellow;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486r</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486:</p>
+
+<div>
+  <p>nguyenxuanbao_2121050486</p>
+  <p>nguyenxuanbao_2121050486</p>
+</div>
+
+<p>nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486</p>
+
+<div>
+  <p>nguyenxuanbao_2121050486</p>
+  <p>nguyenxuanbao_2121050486</p>
+</div>
+
+<p>nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+div ~ p {
+  background-color: yellow;
+}
+</style>
+</head>
+<body>
+
+<h2>nguyenxuanbao_2121050486</h2>
+
+<p>nguyenxuanbao_2121050486</p>
+
+<p>nguyenxuanbao_2121050486.</p>
+
+<div>
+  <p>nguyenxuanbao_2121050486</p>
+</div>
+
+<p>nguyenxuanbao_2121050486</p>
+<code>nguyenxuanbao_2121050486</code>
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>

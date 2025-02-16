@@ -1,0 +1,79 @@
+<html>
+<head>
+<style>
+span.a {
+  display: inline; /* the default for span */
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;  
+  background-color: yellow; 
+}
+
+span.b {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow; 
+}
+
+span.c {
+  display: block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;    
+  background-color: yellow; 
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+
+<h2>nguyenxuanbao_2121050486</h2>
+<div>nguyenxuanbao_2121050486 </div>
+
+<h2>nguyenxuanbao_2121050486</h2>
+<div>nguyenxuanbao_2121050486</div>
+
+<h2>nguyenxuanbao_2121050486</h2>
+<div>nguyenxuanbao_2121050486</div>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+.nav {
+  background-color: yellow; 
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<p>nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486</p>
+
+<ul class="nav">
+  <li><a href="#home">Home</a></li>
+  <li><a href="#about">About Us</a></li>
+  <li><a href="#clients">Our Clients</a></li>  
+  <li><a href="#contact">Contact Us</a></li>
+</ul>
+
+</body>
+</html>

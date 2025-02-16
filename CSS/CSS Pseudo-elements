@@ -1,0 +1,118 @@
+<html>
+<head>
+<style>
+p::first-line {
+  color: #ff0000;
+  font-variant: small-caps;
+}
+</style>
+</head>
+<body>
+
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p::first-letter {
+  color: #ff0000;
+  font-size: xx-large;
+}
+</style>
+</head>
+<body>
+
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p.intro::first-letter {
+  color: #ff0000;
+  font-size: 200%;
+}  
+</style>
+</head>
+<body>
+
+<p class="intro">nguyenxuanbao_2121050486</p>
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+p::first-letter {
+  color: #ff0000;
+  font-size: xx-large;
+}
+
+p::first-line {
+  color: #0000ff;
+  font-variant: small-caps;
+}
+</style>
+</head>
+<body>
+
+<p>nguyenxuanbao_2121050486</p>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+h1::before {
+  content: url(smiley.gif);
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<p>nguyenxuanbao_2121050486</p>
+
+<h1>This is a heading</h1>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+h1::after {
+  content: url(smiley.gif);
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+<p>nguyenxuanbao_2121050486</p>
+
+<h1>This is a heading</h1>
+
+</body>
+</html>
+<html>
+<head>
+<style>
+::selection {
+  color: red;
+  background: yellow;
+}
+</style>
+</head>
+<body>
+
+<h1>nguyenxuanbao_2121050486</h1>
+
+<p>nguyenxuanbao_2121050486</p>
+<div>nguyenxuanbao_2121050486</div>
+
+</body>
+</html>
