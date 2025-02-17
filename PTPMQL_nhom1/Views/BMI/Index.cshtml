@@ -1,0 +1,11 @@
+@model BMI
+<h1>dữ liệu từ controller gửi về là: @ViewBag.BMI</h1>
+<form asp-action="Calculate" method="post">
+        <label>Giới tính:</label>
+        <input asp-for="Gender" />
+        <label>Chiều cao (m):</label>
+        <input asp-for="Height" type="number" step="0.01" />
+        <label>Cân nặng (kg):</label>
+        <input asp-for="Weight" type="number" step="0.1" />
+    <button type="submit">Tính BMI</button>
+</form>
