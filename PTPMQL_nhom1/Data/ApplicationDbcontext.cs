@@ -1,11 +1,11 @@
 using Microsoft.EntityFrameworkCore;
 using PTPMQL.Models;
 
-namespace PTPMQL.Data
+namespace PTPMQL_Nhom1.Data
 {
-public class ApplicationDbcontext : DbContext
+public class ApplicationDbContext : DbContext
 {
-    public ApplicationDbcontext(DbContextOptions <ApplicationDbcontext>options) : base(options)
+    public ApplicationDbContext(DbContextOptions <ApplicationDbContext>options) : base(options)
     {}
     public DbSet<Person> Persons { get; set; }
         public object Person { get; internal set; }

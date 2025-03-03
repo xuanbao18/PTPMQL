@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using PTPMQL.Data;
+using PTPMQL_Nhom1.Data;
 using PTPMQL.Models;
 
 
@@ -9,10 +9,10 @@ namespace PTPMQL.Controllers
     public class PersonController : Controller
     
     {
-        private readonly ApplicationDbcontext _context;
+        private readonly ApplicationDbContext _context;
         private object await_context;
 
-        public PersonController(ApplicationDbcontext context)
+        public PersonController(ApplicationDbContext context)
         {
             _context = context;
         }
@@ -39,7 +39,7 @@ namespace PTPMQL.Controllers
         }
         public async Task<IActionResult> Edit (string ID)
         {
-            if (ID == null || _context.Person == null)
+            if (ID == null || _context.Persons == null)
             {
                 return NotFound();
             } 
@@ -91,7 +91,7 @@ namespace PTPMQL.Controllers
 
             var person = await _context.Persons
                 .FirstOrDefaultAsync(m => m.PersonID == ID);
-            if (person == person)
+            if (person == null)
             {
                 return NotFound();
             }
@@ -122,12 +122,12 @@ namespace PTPMQL.Controllers
 
      
     [HttpPost]
-    public IActionResult Index(Person ps)
+    public IActionResult IndexPost(Person ps)
     
     {
         string str0utput ="xin chao" + ps.PersonID + "-"+ ps.FullName+"-"+ps.Address;
         ViewBag.infoPerson = str0utput;
-        return View();
+        return View("Index");
     }
     }
 }

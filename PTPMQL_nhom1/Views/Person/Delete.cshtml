@@ -1,0 +1,32 @@
+@model PTPMQLMovie.Models.Person
+
+@{
+    ViewData["Title"] = "Delte";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to Delete this?</h3>
+<div>
+    <h4>Person</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(Model => model.FullName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(Model => model.FullName)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(Model => model.Address)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(Model => model.Address)
+        </dd>
+    </dl>
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="PersonID" />
+        <input type="submit" value="Delete" class="btn btn-danger" />
+        <a asp-action="Index">Back to list</a>
+    </form>
+</div>

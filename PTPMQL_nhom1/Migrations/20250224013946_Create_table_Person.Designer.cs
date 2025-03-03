@@ -3,13 +3,13 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using PTPMQL.Data;
+using PTPMQL_Nhom1.Data;
 
 #nullable disable
 
 namespace PTPMQL.Migrations
 {
-    [DbContext(typeof(ApplicationDbcontext))]
+    [DbContext(typeof(ApplicationDbContext))]
     [Migration("20250224013946_Create_table_Person")]
     partial class Create_table_Person
     {
