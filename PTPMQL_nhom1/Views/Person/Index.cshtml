@@ -1,7 +1,9 @@
-@model IEnumerable<PTPMQLMovie.Models.Person>
+@using Microsoft.EntityFrameworkCore.Metadata.Internal
+@using static Microsoft.EntityFrameworkCore.DbLoggerCategory
+@model IEnumerable<PTPMQL.Models.Person>
 
 @{
-    ViewData["Title"] = "Index"
+    ViewData["Title"] = "Index";
 }
 
 <h1>Index</h1>
@@ -13,10 +15,10 @@
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(Model => model.FullName)
+                @Html.DisplayNameFor(Model => Model.FullName)
             </th>
             <th>
-                @Html.DisplayNameFor(Model => model.Address)
+                @Html.DisplayNameFor(Model => Model.Address)
             </th>
             <th></th>
         </tr>

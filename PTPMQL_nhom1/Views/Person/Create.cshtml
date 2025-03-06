@@ -1,5 +1,4 @@
-@model MvcMovie.Models.Person
-<h1>@Model.Person</h1>
+@model PTPMQL.Models.Person
 @{
     ViewData["Title"] = "Create";
 }
@@ -39,5 +38,5 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValydationScriptsPartial");}
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }

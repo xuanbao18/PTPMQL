@@ -1,4 +1,6 @@
-@model PTPMQLMovie.Models.Person
+@using Microsoft.EntityFrameworkCore.Metadata.Internal
+@using static Microsoft.EntityFrameworkCore.DbLoggerCategory
+@model PTPMQL.Models.Person
 
 @{
     ViewData["Title"] = "Delte";
@@ -11,17 +13,17 @@
     <h4>Person</h4>
     <hr />
     <dl class="row">
-        <dt class="col-sm-2">
-            @Html.DisplayNameFor(Model => model.FullName)
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => Model.FullName)
         </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(Model => model.FullName)
+        <dd class ="col-sm-10">
+            @Html.DisplayFor(model => Model.FullName)
         </dd>
-        <dt class="col-sm-2">
-            @Html.DisplayNameFor(Model => model.Address)
+        <dt class ="col-sm-2">
+            @Html.DisplayNameFor(model => model.Address)
         </dt>
-        <dd class="col-sm-10">
-            @Html.DisplayFor(Model => model.Address)
+        <dd class ="col-sm-10">
+            @Html.DisplayFor(model => model.Address)
         </dd>
     </dl>
     <form asp-action="Delete">
