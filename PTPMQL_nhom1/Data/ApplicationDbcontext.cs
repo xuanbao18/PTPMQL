@@ -1,7 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using PTPMQL.Models;
+using PTPMQL;
 
-namespace PTPMQL_Nhom1.Data
+namespace PTPMQL.Data
 {
 public class ApplicationDbContext : DbContext
 {
@@ -9,5 +10,6 @@ public class ApplicationDbContext : DbContext
     {}
     public DbSet<Person> Persons { get; set; }
         public object Person { get; internal set; }
+    public DbSet<PTPMQL.Employee> Employee { get; set; } = default!;
     }
 }

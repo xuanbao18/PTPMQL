@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using PTPMQL_Nhom1.Data;
+using PTPMQL.Data;
 using PTPMQL.Models;
 
 
@@ -122,7 +122,7 @@ namespace PTPMQL.Controllers
 
      
     [HttpPost]
-    public IActionResult IndexPost(Person ps)
+    public IActionResult Index(Person ps)
     
     {
         string str0utput ="xin chao" + ps.PersonID + "-"+ ps.FullName+"-"+ps.Address;

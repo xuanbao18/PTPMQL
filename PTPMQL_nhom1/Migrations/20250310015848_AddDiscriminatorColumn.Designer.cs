@@ -10,8 +10,8 @@ using PTPMQL.Data;
 namespace PTPMQL.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250224013946_Create_table_Person")]
-    partial class Create_table_Person
+    [Migration("20250310015848_AddDiscriminatorColumn")]
+    partial class AddDiscriminatorColumn
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -25,16 +25,39 @@ namespace PTPMQL.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Address")
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Discriminator")
                         .IsRequired()
+                        .HasMaxLength(8)
                         .HasColumnType("TEXT");
 
                     b.Property<string>("FullName")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.HasKey("PersonID");
 
                     b.ToTable("Person");
+
+                    b.HasDiscriminator().HasValue("Person");
+
+                    b.UseTphMappingStrategy();
+                });
+
+            modelBuilder.Entity("PTPMQL.Employee", b =>
+                {
+                    b.HasBaseType("PTPMQL.Models.Person");
+
+                    b.Property<int>("Age")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("EmployeeID")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.ToTable("Person");
+
+                    b.HasDiscriminator().HasValue("Employee");
                 });
 #pragma warning restore 612, 618
         }
